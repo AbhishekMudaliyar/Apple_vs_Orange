@@ -24,7 +24,7 @@ The dataset consists of weight and size attributes with corresponding class labe
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/apple-vs-orange-classification.git
+   git clone https://github.com/AbhishekMudaliyar/apple-vs-orange-classification.git
    ```
 2. Navigate to the project directory:
    ```bash
