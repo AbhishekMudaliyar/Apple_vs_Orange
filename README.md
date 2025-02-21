@@ -1,4 +1,3 @@
-# Apple_vs_Orange
 # Apple vs Orange Classification using K-Nearest Neighbors (KNN)
 
 ## Overview
